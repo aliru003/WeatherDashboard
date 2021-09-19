@@ -2,7 +2,7 @@ Client request - Weather Dashboard
 
 Build a weather dashboard that runs in the browser and feature dynamically updated HTML and CSS.
 
-LIVE link:
+LIVE link: https://aliru003.github.io/WeatherDashboard/
 
 Created a weather dashboard with form inputs for city search and that city is added to the search history
 When I view current weather conditions for that city I am presented with the city name, the date, an icon representation of weather conditions, the temperature, the humidity, the wind speed, and the UV index
