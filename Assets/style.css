@@ -7,10 +7,10 @@ html, body, .container-fluid, .content-row {
 }
 
 .city-btn:hover {
-  background-color: #f6f5f5;
+  background-color: #dddddd;
   cursor: pointer;
 }
 
 .card {
-  background-color: #cce5ff;
+  background-color: #b3b3b3;
 }
